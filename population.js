@@ -44,8 +44,8 @@ async function listCourses() {
 }
 
 
-//createAuthor('Mosh', 'My bio', 'My Website');
+//createAuthor('Tarun', 'My bio', 'My Website');
 
-//createCourse('Node Course', '5ccc2c62f6e96c64c4418b3a')
+//createCourse('Node Js', '5ccc2c62f6e96c64c4418b3a')
 
  listCourses();
